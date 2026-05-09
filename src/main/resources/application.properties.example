@@ -39,13 +39,13 @@ app.admin.password=${ADMIN_PASSWORD:YOUR_ADMIN_PASSWORD}
 # =============================
 # İşletme Bilgileri
 # =============================
-app.business.name=${BUSINESS_NAME:Nyg Auto Garage}
-app.business.phone=${BUSINESS_PHONE:05334762899}
-app.business.email=${BUSINESS_EMAIL:nygcarwash@gmail.com}
-app.business.address=${BUSINESS_ADDRESS:Gazi Bulvarı No:479 Kepez/Antalya}
+app.business.name=${BUSINESS_NAME:Example Auto Garage}
+app.business.phone=${BUSINESS_PHONE:05550000000}
+app.business.email=${BUSINESS_EMAIL:contact@examplecarwash.com}
+app.business.address=${BUSINESS_ADDRESS:Example Street No:1 City/Country}
 
 # Admin Bildirim E-postası (kurumsal randevu talebi geldiğinde)
-app.admin.notification.email=${ADMIN_NOTIFICATION_EMAIL:nygcarwash@gmail.com}
+app.admin.notification.email=${ADMIN_NOTIFICATION_EMAIL:admin@examplecarwash.com}
 
 # =============================
 # Randevu Slot Ayarları
